@@ -1,5 +1,6 @@
 # carbon--Emission-Analysis
 
+
 ### Let's look at the data
 
 ### Table `production_emission`
@@ -20,3 +21,13 @@ select * from product_emissions limit 10;
 | 10418-1-2013  | 84         | 9          | 19                | 2013 | Portland Cement                                                 | 1000      | 1102                 | N/a (product with insufficient stage-level data) | N/a (product with insufficient stage-level data) | N/a (product with insufficient stage-level data) | 
 | 10661-10-2014 | 85         | 28         | 11                | 2014 | Regular Straight 505® Jeans – Steel (Water                      | 0.7665    | 15                   | N/a (product with insufficient stage-level data) | N/a (product with insufficient stage-level data) | N/a (product with insufficient stage-level data) | 
 | 10661-10-2015 | 85         | 28         | 6                 | 2015 | Regular Straight 505® Jeans – Steel (Water                      | 0.7665    | 15                   | N/a (product with insufficient stage-level data) | N/a (product with insufficient stage-level data) | N/a (product with insufficient stage-level data) | 
+
+
+### Let's look at the data
+
+### Table `industry_group`
+```
+select * from industry_groups LIMIT 3;
+```
+
+
