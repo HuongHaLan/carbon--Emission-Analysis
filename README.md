@@ -48,3 +48,17 @@ select * from companies LIMIT 3;
 | 2  | "Casio Computer Co., Ltd." | 
 | 3  | "Cisco Systems, Inc."      | 
 
+
+### Let's look at the data
+
+### Table `countries`
+
+```
+select * from countries limit 3;
+```
+| id | country_name | 
+| -: | -----------: | 
+| 1  | Australia    | 
+| 2  | Belgium      | 
+| 3  | Brazil       | 
+
