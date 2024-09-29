@@ -1,5 +1,8 @@
 # carbon--Emission-Analysis
 
+### Let's look at the data
+
+### Table `production_emission`
 
 ```
 select * from product_emissions limit 10;
