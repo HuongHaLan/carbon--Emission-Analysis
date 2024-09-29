@@ -29,5 +29,10 @@ select * from product_emissions limit 10;
 ```
 select * from industry_groups LIMIT 3;
 ```
+| id | industry_group                                                         | 
+| -: | ---------------------------------------------------------------------: | 
+| 1  | "Consumer Durables, Household and Personal Products"                   | 
+| 2  | "Food, Beverage & Tobacco"                                             | 
+| 3  | "Forest and Paper Products - Forestry, Timber, Pulp and Paper, Rubber" | 
 
 
