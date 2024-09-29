@@ -35,4 +35,16 @@ select * from industry_groups LIMIT 3;
 | 2  | "Food, Beverage & Tobacco"                                             | 
 | 3  | "Forest and Paper Products - Forestry, Timber, Pulp and Paper, Rubber" | 
 
+### Let's look at the data
+
+### Table `companies`
+
+```
+select * from companies LIMIT 3;
+```
+| id | company_name               | 
+| -: | -------------------------: | 
+| 1  | "Autodesk, Inc."           | 
+| 2  | "Casio Computer Co., Ltd." | 
+| 3  | "Cisco Systems, Inc."      | 
 
